@@ -20,4 +20,4 @@ Here's summary about me:
 - 🔭 I’m currently working on becoming Front-End Engineer
 - 🌱 I’m currently learning at AltSchool Agrica
 - 👯 I’m looking for opportunity to contribute Tech Ecosystem
-- 📫 you can reach me via email samsonmoradeyo@gmail.com; https://psalmoteedata.com.ng
+- 📫 you can reach me via email samsonmoradeyo@gmail.com
