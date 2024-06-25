@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Here's is summary about me:
+Here's summary about me:
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on becoming Front-End Engineer
 - 🌱 I’m currently learning at AltSchool Agrica
