@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there; Welcome 👋 
 
 <!--
 **psalmotee/psalmotee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Here's is summary about me:
+- 😄 Pronouns: He/Him
+- 🔭 I’m currently working on becoming Front-End Engineer
+- 🌱 I’m currently learning at AltSchool Agrica
+- 👯 I’m looking for opportunity to contribute Tech Ecosystem
+- 📫 you can reach me via email samsonmoradeyo@gmail.com
