@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 Here's summary about me:
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on becoming Front-End Engineer
-- 🌱 I’m currently learning at AltSchool Agrica
+- 🌱 I’m currently learning at AltSchool Africa
 - 👯 I’m looking for opportunity to contribute Tech Ecosystem
 - 📫 you can reach me via email samsonmoradeyo@gmail.com
