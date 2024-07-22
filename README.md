@@ -19,6 +19,7 @@ A passionate front-end developer with one year of experience creating dynamic an
 ## Here's summary about me:
 - 😄 Pronouns: He/Him
 - 🔭 I’m currently working on becoming Front-End Engineer
-- 🌱 I’m currently learning at AltSchool Africa
-- 👯 I’m looking for opportunity to contribute to Tech Ecosystem
-- 📫 you can reach me via email mailto: samsonmoradeyo@gmail.com
+- 🌱 I’m currently learning at AltSchool Africa altschoolafrica.com
+- 👯 I’m looking for opportunity to contribute to Tech Ecosystem and collaborate with team
+- 💼 Job interests: Frontend Engineer
+- 📫 you can reach me via email samsonmoradeyo@gmail.com
