@@ -9,6 +9,7 @@ A passionate front-end developer with one year of experience creating dynamic an
 - 🌱 I’m currently learning at [AltSchool Africa](altschoolafrica.com)
 - 👯 I’m looking for opportunity to contribute to Tech Ecosystem and collaborate with team
 - 💼 Job interests: Frontend Engineer
+- 👨🏼‍💻 View my work: [Portfolio](https://portfolio-psalmotee.netlify.app/)
 - 📫 you can reach me via email samsonmoradeyo@gmail.com
 
 
